@@ -1,0 +1,15 @@
+Package: carsales
+Type: Package
+Title: Data on Car Sales in India
+Version: 0.1.0
+Authors@R: c(
+    person("Max", "Kuhn", , "max@rstudio.com", role = c("aut", "cre"))
+  )
+Description: Data on car sales in India
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 3.5.0)
+RoxygenNote: 7.1.2
+Roxygen: list(markdown = TRUE)
